@@ -1,14 +1,4 @@
-/**
-* Template Name: Scaffold
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -842,7 +832,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../img/cta-bg.png") center center;
   background-size: cover;
   padding: 80px 0;
 }
@@ -868,11 +858,11 @@ section {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #009cea;
+  background: #00ADB5;
 }
 
 .cta .cta-btn:hover {
-  background: #008bd1;
+  background: #095b5f;
 }
 
 @media (min-width: 1024px) {
